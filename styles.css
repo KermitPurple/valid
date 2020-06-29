@@ -1,8 +1,26 @@
 html, body{
     background: black;
+    background-size: cover;
     height: 100%;
     padding: 0;
     margin: 0;
+}
+
+#cutout{
+    position: absolute;
+    text-align: center;
+    background-color: black;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    mix-blend-mode: multiply;
+}
+
+#cutout p{
+    margin: 30px;
+    font-size: 100px;
+    font-weight: bold;
 }
 
 #lgbt{
