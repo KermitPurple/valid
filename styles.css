@@ -59,3 +59,13 @@ html, body{
     #55cdfc 80% 100%
     );
 }
+
+#lesbian{
+    background: linear-gradient(
+    #d62900 0% 20%,
+    #ff9b55 20% 40%,
+    #ffffff 40% 60%,
+    #d461a6 60% 80%,
+    #a50062 80% 100%
+    );
+}
