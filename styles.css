@@ -49,3 +49,13 @@ html, body{
     #1bb3ff 66.666667% 100%
     );
 }
+
+#trans{
+    background: linear-gradient(
+    #55cdfc 0% 20%,
+    #f78ab8 20% 40%,
+    #ffffff 40% 60%,
+    #f78ab8 60% 80%,
+    #55cdfc 80% 100%
+    );
+}
