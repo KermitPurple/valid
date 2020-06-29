@@ -16,3 +16,11 @@ html, body{
     );
 }
 
+#bi{
+    background: linear-gradient(
+    #d70270 0% 40%,
+    #734f96 40% 60%,
+    #0038a8 60% 100%
+    );
+}
+
