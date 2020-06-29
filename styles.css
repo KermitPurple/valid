@@ -78,3 +78,12 @@ html, body{
     #000000 75% 100%
     );
 }
+
+#ace{
+    background: linear-gradient(
+    #000000 0% 25%,
+    #a4a4a4 25% 50%,
+    #ffffff 50% 75%,
+    #810081 75% 100%
+    );
+}
