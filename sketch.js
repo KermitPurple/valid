@@ -1,4 +1,4 @@
-const FLAGS =["lgbt", "bi"]
+const FLAGS =["lgbt", "bi", "pan"]
 
 async function sleep(ms){
     return new Promise(resolve => setTimeout(resolve, ms));
@@ -7,7 +7,7 @@ async function sleep(ms){
 async function cycle_flags(){
     for(let i = 0;;i++){
         document.body.id = FLAGS[i % FLAGS.length]
-        await sleep(3000);
+        await sleep(2000);
     }
 }
 

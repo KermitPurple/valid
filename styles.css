@@ -41,3 +41,11 @@ html, body{
     #0038a8 60% 100%
     );
 }
+
+#pan{
+    background: linear-gradient(
+    #ff1b8d 0% 33.333333%,
+    #ffda00 33.333333% 66.666667%,
+    #1bb3ff 66.666667% 100%
+    );
+}
