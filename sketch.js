@@ -1,4 +1,4 @@
-const FLAGS =["lgbt", "bi", "pan", "trans", "lesbian", "nb", "ace", "gender-fluid", "phil"]
+const FLAGS =["lgbt", "bi", "pan", "trans", "lesbian", "nb", "ace", "gender-fluid", "phil", 'triangle']
 
 async function sleep(ms){
     return new Promise(resolve => setTimeout(resolve, ms));
